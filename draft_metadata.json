@@ -1,0 +1,56 @@
+{
+ "title": "Lower Lunc Tax to 0.1% to match Binance and increase on chain volume",
+ "authors": [
+  "Lunanauts"
+ ],
+ "summary": "full commonwealth proposal here: https://common.xyz/terra-luna-classic-lunc/discussion/26075-new-year-new-start-lunc-trading-fees-to-match-binance-at-01-and-revitalize-onchain-volume",
+ "details": "Proposal link: NEW PROPOSAL COMING SOON WITH CORRECT PARAM ADJUSTMENTS ….Please note that this proposal will be entirely community-funded to remove any biased towards the proposer.
+
+This proposal aims to reduce trading fees from the current 0.5% rate down to 0.1%, aligning with Binance’s competitive fee structure and opening new avenues for growth. See exact correct param change at the bottom of this article
+
+For clarity to the community and developers on the percentage in decimals:
+
+0.1% as reffered to throughout this text is 0.001 in coding/parameter decimals
+
+Why?
+LUNC’s higher fees have led to stagnation across onchain transactions, and the community has shown through recent polling, including the overwhelmingly rejected 1.5% tax increase, that a more balanced approach is desired. By matching Binance’s 0.1% rate, traders and developers will find greater confidence in building and transacting on our chain.
+
+This approach holds true to LUNC’s deflationary intent and maintains the burn tax momentum that has been central to our community’s vision.
+
+What About The Oracle Pool & Community Pool?:
+A lower fee encourages increased onchain volume, which in turn brings additional revenue through gas fees and the underlying tax mechanism. As volume scales, the Oracle pool will see stronger contributions that help maintain accurate price feeds and network integrity. The Community Pool will also benefit from higher throughput because more frequent transactions translate to more consistent inflows. This environment supports current and new dApps as they can operate with reduced friction, which helps maintain an attractive ecosystem for creators and users alike.
+
+Community Feedback
+Feedback indicates that a fee of 0.5% dissuades certain traders, dampening activity in ways that ultimately slow growth and lessen overall contributions to the Community Pool. By contrast, a 0.1% fee incentivizes participation, resulting in higher transaction counts and potentially more total fees collected than at the previous rate. This principle holds true for any comparison between lower versus higher fees, where the increased velocity of trades can surpass the per-trade decrease, driving more funds back to the network.
+
+The time is right to have a fresh approach that embraces this reality, especially given that fees and tax rates can always be revisited through additional governance proposals if adjustments prove necessary.
+
+Your Vote Counts!
+It is crucial for individual delegators to actively cast their votes rather than rely solely on validators, since a personal vote directly overrides the choice made by one’s validator. This ensures that all voices are genuinely represented and that the direction of LUNC remains under the community’s collective influence.
+
+Approving this proposal signals to the broader crypto ecosystem that LUNC remains committed to a deflationary path and is prepared to adapt for long-term success. The community has asked for meaningful ways to enhance usage, and setting fees at 0.1% is a clear step in that direction.
+
+The prospects of higher volume, stronger pools, and a thriving dApp environment make this move beneficial for all stakeholders.
+
+What About Burns?:
+The burn mechanism that has been integral to LUNC’s deflationary path remains firmly in place under this proposal. Rather than undermining the burn’s impact, the reduced fee rate aims to increase overall onchain activity, which in turn can lead to more burns taking place.
+
+Higher volume translates to more transactions subjected to the burn, so the community’s goal of reducing LUNC’s circulating supply continues to be reinforced, even as the fee structure becomes more appealing for both existing and new participants.
+
+New Year, New Start
+With a new year ahead, this proposal offers LUNC the chance to reignite interest, align with global market practices, and pave the way for healthy onchain growth.
+
+The Parameter Change:
+{ gas_prices: [ { denom: uaud, amount: 0.950000000000000000 }, { denom: ucad, amount: 0.950000000000000000 }, { denom: uchf, amount: 0.700000000000000000 }, { denom: ucny, amount: 4.900000000000000000 }, { denom: udkk, amount: 4.500000000000000000 }, { denom: ueur, amount: 0.625000000000000000 }, { denom: ugbp, amount: 0.550000000000000000 }, { denom: uhkd, amount: 5.850000000000000000 }, { denom: uidr, amount: 10900.000000000000000000 }, { denom: uinr, amount: 54.400000000000000000 }, { denom: ujpy, amount: 81.850000000000000000 }, { denom: ukrw, amount: 850.000000000000000000 }, { denom: uluna, amount: 28.325000000000000000 }, { denom: umnt, amount: 2142.855000000000000000 }, { denom: umyr, amount: 3.000000000000000000 }, { denom: unok, amount: 6.250000000000000000 }, { denom: uphp, amount: 38.000000000000000000 }, { denom: usdr, amount: 0.524690000000000000 }, { denom: usek, amount: 6.250000000000000000 }, { denom: usgd, amount: 1.000000000000000000 }, { denom: uthb, amount: 23.100000000000000000 }, { denom: utwd, amount: 20.000000000000000000 }, { denom: uusd, amount: 0.750000000000000000 } ], burn_tax_rate: 0.001000000000000000 }
+
+What Your Vote Means:
+",
+ "proposal_forum_url": "https://common.xyz/terra-luna-classic-lunc/discussion/26075-new-year-new-start-lunc-trading-fees-to-match-binance-at-01-and-revitalize-onchain-volume",
+ "vote_option_context": "Yes: expresses support for reducing fees to 0.1% and faith in the proposal’s benefits.
+
+Abstain: signifies a neutral stance, allowing the rest of the community to determine the proposal’s fate.
+
+No: registers a direct disagreement with the proposal, though it does not demand that it be blocked.
+
+No with Veto: Not Applicable as this isn’t a spam proposal"
+}
